@@ -1,0 +1,9 @@
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\red.xnb
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\brown.xnb
+c:\users\eshed\onedrive\documents\visual studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\blue.xnb
